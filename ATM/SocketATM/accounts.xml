@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<accunts> 
+  <account> 
+    <id>10001</id>  
+    <password>111111</password>  
+    <money>400</money>  
+    <state>0</state> 
+  </account>  
+  <account> 
+    <id>10002</id>  
+    <password>111111</password>  
+    <money>10100</money>  
+    <state>1</state> 
+  </account>  
+  <account> 
+    <id>10003</id>  
+    <password>111111</password>  
+    <money>8000</money>  
+    <state>1</state> 
+  </account>  
+  <account> 
+    <id>10004</id>  
+    <password>111111</password>  
+    <money>10000</money>  
+    <state>0</state> 
+  </account>  
+  <account> 
+    <id>10005</id>  
+    <password>111111</password>  
+    <money>10000</money>  
+    <state>1</state> 
+  </account> 
+</accunts>
